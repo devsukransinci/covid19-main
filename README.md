@@ -1,6 +1,3 @@
-# covid19
-
-An app for COVID-19 updates
 
 ## Getting Started
 
